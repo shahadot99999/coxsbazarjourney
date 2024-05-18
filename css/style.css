@@ -7,6 +7,9 @@ background-color: white;
 /* navbar end */
 
 /* Discover hidden  start */
+.hiddenword{
+    background-color: rgb(219, 227, 235);
+}
 .hidddenbutton{
     background-color: chocolate;
     color: aliceblue;
@@ -14,3 +17,9 @@ background-color: white;
     padding: 10px 20px;
 }
 /* Discover Hidden End */
+
+/* About us start */
+.aboutustext{
+    color: chocolate;
+}
+/* About us End */
