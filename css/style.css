@@ -23,3 +23,26 @@ background-color: white;
     color: chocolate;
 }
 /* About us End */
+
+/* mostpopular start */
+.mostpopular{
+    background-color: rgb(255, 231, 201);
+}
+/* mostpopular end */
+
+/* Historical start */
+.historical{
+    background-color: rgb(250, 250, 250);
+}
+.historicalborder{
+    background:rgba(142, 144, 146, 0.589);
+
+}
+
+
+.carousel-control span.icon-prev, span.icon-next {  
+color: red; 
+}
+
+
+/* Historical end */
