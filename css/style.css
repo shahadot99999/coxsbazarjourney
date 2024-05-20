@@ -39,10 +39,24 @@ background-color: white;
 
 }
 
-
-.carousel-control span.icon-prev, span.icon-next {  
-color: red; 
+.carousel-control-prev-icon {
+   
+    background-color:chocolate;
+    border-radius: 100%;
+    /* background-image: url("images/carousel/back.svg"); */ 
+   
 }
 
+.carousel-control-next-icon {
+    background-color:chocolate;
+    border-radius: 100%;
+}
 
 /* Historical end */
+
+/* Gallery image start */
+.imgagetext{
+    text-align: center;
+    /* text-justify: center; */
+}
+/* Gallery image end */
