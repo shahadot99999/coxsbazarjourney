@@ -63,5 +63,14 @@ background-color: white;
 
 
 /* fascinating blog start */
-
+.fasinatingImageText{
+    margin: 0 -0.4em;
+  padding: 0.1em 0.4em;
+  border-radius: 0.8em 0.3em;
+    background-color:rgb(253, 254, 255);
+    color: rgb(17, 17, 17);
+}
+.cardText{
+    color:rgb(211, 89, 2);
+}
 /* fascinating blog end */
